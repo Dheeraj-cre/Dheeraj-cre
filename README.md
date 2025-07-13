@@ -6,8 +6,9 @@ I love building user-centric web apps with React.js, JavaScript, and clean UI.
 
 ## 🚀 Projects
 - 🔗 [SplitterApp](https://github.com/Dheeraj-cre/splitterapp): React-based bill splitting app 💸
-- 🔗 [MindMirror](https://github.com/Dheeraj-cre/mindmirror): Self-reflection behavior app 🪞
-- 🔗 [YouFromYou](https://github.com/Dheeraj-cre/youfromyou): Digital self-analyzer 📖
+- 🔗 [Netflix Clone (Live)](https://dheeraj-cre.github.io/Responsive-Netflixclone/): Responsive UI replica of Netflix 🎬
+  
+
 
 ## 🧠 Skills
 `HTML` `CSS` `JavaScript` `React.js` `Git` `Responsive Design`
