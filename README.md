@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**Dheeraj-cre/Dheeraj-cre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#  Hi, I'm Dheeraj Srivastava
 
-Here are some ideas to get you started:
+🎓 MCA Graduate | 💻 Frontend Developer | 💡 Creative Problem Solver  
+I love building user-centric web apps with React.js, JavaScript, and clean UI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 🔗 [SplitterApp](https://github.com/Dheeraj-cre/splitterapp): React-based bill splitting app 💸
+- 🔗 [MindMirror](https://github.com/Dheeraj-cre/mindmirror): Self-reflection behavior app 🪞
+- 🔗 [YouFromYou](https://github.com/Dheeraj-cre/youfromyou): Digital self-analyzer 📖
+
+## 🧠 Skills
+`HTML` `CSS` `JavaScript` `React.js` `Git` `Responsive Design`
+
+## 📫 Connect with Me
+- 💌 Email: dheerajn2311@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/dheerajsri/))
+
+---
+
+_“I don’t just code websites — I bring ideas to life.”_
