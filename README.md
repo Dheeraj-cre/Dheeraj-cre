@@ -1,7 +1,7 @@
 
 #  Hi, I'm Dheeraj Srivastava
 
-🎓 MCA Graduate |  Frontend Developer | Creative Problem Solver  
+ MCA Graduate |  Frontend Developer | Creative Problem Solver  
 I love building user-centric web apps with React.js, JavaScript,Tailwind Css and clean UI.
 
 ##  Projects
