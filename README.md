@@ -19,6 +19,7 @@ I focus on building **scalable, user-friendly web applications** using **modern 
 - Followed **SDLC practices** including requirement analysis, implementation, testing, and issue resolution.
 - Improved responsiveness and maintainability using **modular and reusable React components**.
 - 🔗 GitHub Repository
+- 🌐 Live Demo: https://silly-meringue-b45666.netlify.app/
 
 ---
 
@@ -30,7 +31,22 @@ I focus on building **scalable, user-friendly web applications** using **modern 
 - 🌐 Live Demo: https://clinic-website-cms.vercel.app/
 - 🔗 GitHub Repository
 
+
 ---
+
+### 🎬 Movie Search App
+- 🔗 **[Movie Search App (Live)](https://movierateing.vercel.app/)**
+- A React-based movie search application with **real-time API integration**, **dark/light mode**, and a **fully responsive, user-friendly interface**.
+
+---
+
+### 📚 Student Management CRUD App
+- Built a web application to **create, view, update, and delete student records**.
+- Strengthened understanding of **component-based frontend development**.
+- Practiced **debugging, state handling, and responsive UI development**.
+- 🌐 Live Demo: https://curd-students.netlify.app/
+- 🔗 GitHub: https://github.com/Dheeraj-cre
+
 
 ##  Skills
 
