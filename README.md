@@ -7,7 +7,6 @@ I am a **MERN Stack Developer** with practical experience in **MongoDB, Express.
 I focus on building **scalable, user-friendly web applications** using **modern JavaScript** and **clean coding practices**, and I enjoy growing in **product-driven development teams**.
 
 🔗 **Portfolio:** https://dheerajsri.netlify.app/  
-🔗 **GitHub:** https://github.com/Dheeraj-cre  
 
 ---
 
@@ -18,7 +17,6 @@ I focus on building **scalable, user-friendly web applications** using **modern 
 - Integrated frontend components with **backend REST APIs** for real-world data handling.
 - Followed **SDLC practices** including requirement analysis, implementation, testing, and issue resolution.
 - Improved responsiveness and maintainability using **modular and reusable React components**.
-- 🔗 GitHub Repository
 - 🌐 Live Demo: https://silly-meringue-b45666.netlify.app/
 
 ---
@@ -29,7 +27,6 @@ I focus on building **scalable, user-friendly web applications** using **modern 
 - Integrated **Cloudinary** for production-ready image storage and scalable media handling.
 - Deployed backend on **Render** and frontend on **Vercel**, using **MongoDB Atlas** for database management.
 - 🌐 Live Demo: https://clinic-website-cms.vercel.app/
-- 🔗 GitHub Repository
 
 
 ---
@@ -45,7 +42,6 @@ I focus on building **scalable, user-friendly web applications** using **modern 
 - Strengthened understanding of **component-based frontend development**.
 - Practiced **debugging, state handling, and responsive UI development**.
 - 🌐 Live Demo: https://curd-students.netlify.app/
-- 🔗 GitHub: https://github.com/Dheeraj-cre
 
 
 ##  Skills
