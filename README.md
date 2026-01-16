@@ -1,4 +1,4 @@
-#   Hi, I'm Dheeraj Srivastava  
+#  Hi, I'm Dheeraj Srivastava  
 
 💻 MERN Stack Developer | Frontend-Focused  
 🎓 MCA Graduate | 📍 Noida  
@@ -49,7 +49,7 @@ I enjoy building **scalable, user-friendly web applications** using clean code a
 
 ---
 
-## 📬 Connect With Me
+##  Connect With Me
 
 - 📧 Email: **dheerajn2311@gmail.com**  
 - 💼 LinkedIn: https://www.linkedin.com/in/dheerajsri/  
