@@ -1,47 +1,58 @@
-  Hi, I’m Dheeraj Srivastava
+#   Hi, I'm Dheeraj Srivastava  
 
-📍 Noida | 🎓 MCA Graduate | 💻 MERN Stack Developer (Frontend-Focused)
+💻 MERN Stack Developer | Frontend-Focused  
+🎓 MCA Graduate | 📍 Noida  
 
-I’m a MERN Stack Developer with hands-on experience in React.js, JavaScript, HTML, CSS, Node.js, and MongoDB. I enjoy building scalable, user-friendly web applications using clean code and modern development practices.
+I’m a **MERN Stack Developer** with hands-on experience in **React.js, JavaScript, HTML, CSS, Node.js, and MongoDB**.  
+I enjoy building **scalable, user-friendly web applications** using clean code and modern development practices.
 
-🔗 Portfolio: https://dheerajsri.netlify.app/
+🔗 **Portfolio:** https://dheerajsri.netlify.app/
 
- Projects
+---
 
-University Management System
-Role-based React frontend (Admin, Faculty, Student) with REST API integration.
-🌐 https://silly-meringue-b45666.netlify.app/
+## 🚀 Projects
 
-Clinic Website CMS
-Full-stack CMS with admin dashboard, appointment booking, Cloudinary integration.
-🌐 https://clinic-website-cms.vercel.app/
+### 🏫 University Management System
+- Role-based React frontend (Admin, Faculty, Student)
+- REST API integration and modular components  
+🔗 https://silly-meringue-b45666.netlify.app/
 
-Movie Search App
-React app with real-time API, dark/light mode, and responsive UI.
-🌐 https://movierateing.vercel.app/
+### 🏥 Clinic Website CMS
+- Full-stack CMS with admin dashboard & appointment booking
+- Cloudinary integration, MongoDB Atlas  
+🔗 https://clinic-website-cms.vercel.app/
 
-Student Management CRUD App
-CRUD operations with focus on state management and responsive design.
-🌐 https://curd-students.netlify.app/
+### 🎬 Movie Search App
+- Real-time movie API, dark/light mode, responsive UI  
+🔗 https://movierateing.vercel.app/
 
-🛠 Skills
+### 📚 Student Management CRUD App
+- Create, Read, Update, Delete student records
+- Strong focus on state management & responsiveness  
+🔗 https://curd-students.netlify.app/
 
-Frontend: HTML, CSS, JavaScript (ES6+), React.js
+---
 
-Backend & APIs: Node.js, REST APIs, MongoDB (Basics)
+## 🛠 Tech Stack
 
-Tools: Git, GitHub, VS Code, Postman, Netlify
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js  
+- **Backend:** Node.js, REST APIs, MongoDB (Basics)  
+- **Tools:** Git, GitHub, VS Code, Postman, Netlify  
+- **Currently Learning:** TypeScript, Angular  
 
-Soft Skills: Learning mindset, teamwork, communication
+---
 
-🎓 Education
+## 🎓 Education
 
-MCA – Lloyd Institute of Engineering & Technology, Greater Noida (CGPA: 7.0)
+- **MCA** – Lloyd Institute of Engineering & Technology, Greater Noida  
+- **BCA** – Microtek College of Management & Technology, Varanasi  
 
-BCA – Microtek College of Management & Technology, Varanasi (65%)
+---
 
-📬 Connect
+## 📬 Connect With Me
 
-📧 Email: dheerajn2311@gmail.com
+- 📧 Email: **dheerajn2311@gmail.com**  
+- 💼 LinkedIn: https://www.linkedin.com/in/dheerajsri/  
+- 🌐 Portfolio: https://dheerajsri.netlify.app/
 
-💼 LinkedIn: https://www.linkedin.com/in/dheerajsri/
+---
