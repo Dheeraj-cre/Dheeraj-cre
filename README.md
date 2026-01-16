@@ -1,84 +1,47 @@
-#  Hi, I'm Dheeraj Srivastava
+  Hi, I’m Dheeraj Srivastava
 
-📍 Noida  
-🎓 MCA Graduate |  MERN Stack Developer |  Frontend-Focused  
+📍 Noida | 🎓 MCA Graduate | 💻 MERN Stack Developer (Frontend-Focused)
 
-I am a **MERN Stack Developer** with practical experience in **MongoDB, Express.js, React.js, and Node.js**.  
-I focus on building **scalable, user-friendly web applications** using **modern JavaScript** and **clean coding practices**, and I enjoy growing in **product-driven development teams**.
+I’m a MERN Stack Developer with hands-on experience in React.js, JavaScript, HTML, CSS, Node.js, and MongoDB. I enjoy building scalable, user-friendly web applications using clean code and modern development practices.
 
-🔗 **Portfolio:** https://dheerajsri.netlify.app/  
+🔗 Portfolio: https://dheerajsri.netlify.app/
 
----
+ Projects
 
-##  Projects
+University Management System
+Role-based React frontend (Admin, Faculty, Student) with REST API integration.
+🌐 https://silly-meringue-b45666.netlify.app/
 
-###  University Management System
-- Designed and implemented **role-based frontend modules** for Admin, Faculty, and Student users.
-- Integrated frontend components with **backend REST APIs** for real-world data handling.
-- Followed **SDLC practices** including requirement analysis, implementation, testing, and issue resolution.
-- Improved responsiveness and maintainability using **modular and reusable React components**.
-- 🌐 Live Demo: https://silly-meringue-b45666.netlify.app/
+Clinic Website CMS
+Full-stack CMS with admin dashboard, appointment booking, Cloudinary integration.
+🌐 https://clinic-website-cms.vercel.app/
 
----
+Movie Search App
+React app with real-time API, dark/light mode, and responsive UI.
+🌐 https://movierateing.vercel.app/
 
-###  Clinic Website CMS
-- Built a **full-stack Clinic Website CMS** enabling admins to manage doctors, services, gallery, and appointments through a secure dashboard.
-- Developed a **public-facing website** allowing users to view doctors, services, gallery images, and book appointments.
-- Integrated **Cloudinary** for production-ready image storage and scalable media handling.
-- Deployed backend on **Render** and frontend on **Vercel**, using **MongoDB Atlas** for database management.
-- 🌐 Live Demo: https://clinic-website-cms.vercel.app/
+Student Management CRUD App
+CRUD operations with focus on state management and responsive design.
+🌐 https://curd-students.netlify.app/
 
+🛠 Skills
 
----
+Frontend: HTML, CSS, JavaScript (ES6+), React.js
 
-### 🎬 Movie Search App
-- 🔗 **[Movie Search App (Live)](https://movierateing.vercel.app/)**
-- A React-based movie search application with **real-time API integration**, **dark/light mode**, and a **fully responsive, user-friendly interface**.
+Backend & APIs: Node.js, REST APIs, MongoDB (Basics)
 
----
+Tools: Git, GitHub, VS Code, Postman, Netlify
 
-### 📚 Student Management CRUD App
-- Built a web application to **create, view, update, and delete student records**.
-- Strengthened understanding of **component-based frontend development**.
-- Practiced **debugging, state handling, and responsive UI development**.
-- 🌐 Live Demo: https://curd-students.netlify.app/
+Soft Skills: Learning mindset, teamwork, communication
 
+🎓 Education
 
-##  Skills
+MCA – Lloyd Institute of Engineering & Technology, Greater Noida (CGPA: 7.0)
 
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Responsive UI Design  
-- **Web Frameworks:** React.js, Angular (Learning), Component-Based Architecture  
-- **Programming Languages:** JavaScript, TypeScript (Learning), Python (Basics)  
-- **Testing & Quality:** Basic Unit Testing Concepts, Debugging, Clean Code Practices  
-- **Tools & Platforms:** Git, GitHub, VS Code, Postman, Netlify  
-- **Soft Skills:** Willingness to Learn, Team Collaboration, Effective Communication  
+BCA – Microtek College of Management & Technology, Varanasi (65%)
 
----
+📬 Connect
 
-##  Education
+📧 Email: dheerajn2311@gmail.com
 
-- **Master of Computer Applications (MCA)**  
-  Lloyd Institute of Engineering & Technology, Greater Noida  
-  **CGPA:** 7.0  
-
-- **Bachelor of Computer Applications (BCA)**  
-  Microtek College of Management & Technology, Varanasi  
-  **Percentage:** 65%  
-
----
-
-##  Coursework
-- Data Structures and Algorithms  
-- Object-Oriented Programming  
-- Database Management Systems  
-- Software Engineering  
-
----
-
-##  Connect with Me
-- 📧 Email: **dheerajn2311@gmail.com**  
-- 💼 LinkedIn: https://www.linkedin.com/in/dheerajsri/  
-
----
-
-> _“I focus on writing clean, scalable code and building real-world web applications that users can rely on.”_
+💼 LinkedIn: https://www.linkedin.com/in/dheerajsri/
