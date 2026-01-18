@@ -10,7 +10,7 @@ I enjoy building **scalable, user-friendly web applications** using clean code a
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### 🏫 University Management System
 - Role-based React frontend (Admin, Faculty, Student)
