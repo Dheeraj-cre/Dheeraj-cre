@@ -1,4 +1,4 @@
-c#  Hi, I'm Dheeraj Srivastava  
+#  Hi, I'm Dheeraj Srivastava  
 
 💻 MERN Stack Developer | Frontend-Focused  
 🎓 MCA Graduate | 📍 Noida  
