@@ -1,6 +1,6 @@
 #  Hi, I'm Dheeraj Srivastava  
 
-💻 MERN Stack Developer | Frontend-Focused  
+💻 MERN Stack Developer | Frontend-Developer
 🎓 MCA Graduate | 📍 Noida  
 
 I’m a **MERN Stack Developer** with hands-on experience in **React.js, JavaScript, HTML, CSS, Node.js, and MongoDB**.  
